@@ -49,7 +49,7 @@ The main dashboard provides an overall view of:
 - Sales & Profit by Category
 - Order Date filtering
 
-![Dashboard Overview](./Dashboard_Overview.png)
+![Sales Overview](Sales%20Overview.png)
 
 ---
 
