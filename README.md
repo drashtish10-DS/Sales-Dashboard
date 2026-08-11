@@ -125,11 +125,5 @@ The dashboard includes interactive filters and slicers for:
 
 These filters allow users to explore the data from different perspectives.
 
-## Screenshorts
-example- 1[Dashboard Preview1](https://github.com/drashtish10-DS/Sales-Dashboard/blob/main/Sales%20Overview.png)
-2[Dashboard preview2](https://github.com/drashtish10-DS/Sales-Dashboard/blob/main/Region_State_Analysis.png)
-3[Dashboard preview3](https://github.com/drashtish10-DS/Sales-Dashboard/blob/main/Category_Subcategory_Analysis.png)
-
-
 
 
