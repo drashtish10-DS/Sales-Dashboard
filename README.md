@@ -1,5 +1,5 @@
 # Sales-Dashboard
-# 📊 Sales Dashboard
+# 📊 Superstore Sales Analysis Dashboard
 
 ## 📌 Project Overview
 
